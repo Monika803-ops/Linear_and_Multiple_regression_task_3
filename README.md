@@ -58,4 +58,5 @@ Dataset used: [House Price Prediction - Kaggle](https://www.kaggle.com/datasets/
 ![Multiple Linear Regression](images/Multiple_Linear_Regression.png)
 
 ---
+This project demonstrates regression modeling, evaluation metrics, and model interpretation to predict house prices effectively.
 
