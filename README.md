@@ -18,7 +18,7 @@ This project demonstrates **Simple Linear Regression** and **Multiple Linear Reg
 
 ### 2. **Loading the Dataset**
 
-🔗 [Click here to view/download the dataset on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+Dataset used: [House Price Prediction - Kaggle](https://www.kaggle.com/datasets/shree1992/housedata)
 
 * Loaded the dataset containing:
 
@@ -37,7 +37,7 @@ This project demonstrates **Simple Linear Regression** and **Multiple Linear Reg
 * **Interpretation Example**:
   If `area` increases by **1 sq ft**, price changes by approximately **235.97 units** (holding other variables constant).
 
-📷 **Simple Linear Regression Output:**
+ **Simple Linear Regression Output:**
 ![Simple Linear Regression](images/Simple_Linear_regression.png)
 
 ---
@@ -54,16 +54,8 @@ This project demonstrates **Simple Linear Regression** and **Multiple Linear Reg
 
   * Each coefficient shows the expected change in price for a one-unit change in that variable, keeping others constant.
 
-📷 **Multiple Linear Regression Output:**
+**Multiple Linear Regression Output:**
 ![Multiple Linear Regression](images/Multiple_Linear_Regression.png)
 
 ---
 
-## **Model Evaluation Results**
-
-* **MSE**: `1754318687330.66`
-* **R²**: `0.6529` → The model explains about **65%** of the variation in prices.
-
----
-
-Do you want me to now **also include the Python code in this README** so it becomes fully reproducible? That would make it more complete.
